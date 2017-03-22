@@ -1,0 +1,135 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) Iris(TM) Graphics 540 (ID=0x1926)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\dior\current\DiorProject_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\dior\current\DiorProject_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\dior\current\DiorProject_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\dior\current\DiorProject_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\dior\current\DiorProject_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\dior\current\DiorProject_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\dior\current\DiorProject_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\dior\current\DiorProject_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\dior\current\DiorProject_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\dior\current\DiorProject_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+- Completed reload, in  0.177 seconds
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 2560x1080 60Hz; virtual: 5120x1992 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.229448 ms
+[Services.AssetLoader] requesting string file: C:/dior/current/DiorProject_Data/../data/flowers.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Platform assembly: C:\dior\current\DiorProject_Data\Managed\System.Xml.dll (this message is harmless)
+[Services.AssetLoader] requesting string file: C:/dior/current/DiorProject_Data/../data/settings.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Services.AssetLoader] requesting string file: C:/dior/current/DiorProject_Data/../data/dior_sample.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Debugging tools: hold 'shift', press R to resize source images, press S to reload settings/layout/localization files
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Services.AssetLoader] requesting string file: C:/dior/current/DiorProject_Data/../data/layoutGrids.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Services.AssetLoader] requesting string file: C:/dior/current/DiorProject_Data/../data/layoutGamme.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ApplicationPause : False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+auto main
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Services.AssetLoader] requesting string file: C:/dior/current/DiorProject_Data/../data/resolution.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Services.AssetLoader] requesting string file: C:/dior/current/DiorProject_Data/../data/lines.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Services.AssetLoader] requesting string file: C:/dior/current/DiorProject_Data/../data/localization_jpn.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Services.AssetLoader] requesting string file: C:/dior/current/DiorProject_Data/../data/localization_en.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Video0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+auto touch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Services.AssetLoader] loading image at path: C:/dior/current/DiorProject_Data/../data/img/gamme1/theme1/ONEESSENTIAL_11_GARDEN_HOMEPAGE.jpg
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Services.AssetLoader] loading image at path: C:/dior/current/DiorProject_Data/../data/img/gamme1/theme2/ONEESSENTIAL_SCIENCE_FILM_HOMEPAGE.jpg
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Services.AssetLoader] loading image at path: C:/dior/current/DiorProject_Data/../data/img/gamme1/theme3/ONEESSENTIAL_13_PRODUIT_HOMEPAGE.jpg
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4558 -> priority: 1 
+Could not locate a AssetLoader object. You have to have exactly one in the scene.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ImageItemController.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Could not locate a AssetLoader object. You have to have exactly one in the scene.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ImageItemController.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Could not locate a AssetLoader object. You have to have exactly one in the scene.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ImageItemController.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

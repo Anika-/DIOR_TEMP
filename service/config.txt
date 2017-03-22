@@ -1,0 +1,12 @@
+﻿Start of the update process, closing all apps
+Copying update. This could take a while
+Decompressing update
+Moving the update files to the final position
+Moving the current app folder to an archive folder
+Moving the updated app folder to the current location
+Deleting the old updated folder
+It seems that the install failed... Restoring backup data
+Problem updating... Please reinstall Beauty Wall
+Update complete!
+Your version is the same or older than current version
+Your computer is full. Free up some space to install the new update

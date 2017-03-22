@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html >
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="styles.css">
+    <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+<video id="video" height=100% ended="StartAgain(this)" autoplay>
+  <source src="crash.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+<script>
+	var vid = document.getElementById("video");
+	vid.onended = function()
+	{
+		console.log("Hello");
+		vid.play();
+	}
+</script>
+</body>
+</html>
